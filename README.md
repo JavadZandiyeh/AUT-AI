@@ -1,4 +1,4 @@
-# AUT-AI
+# Artificial Intelligence
 AUT Artificial Intelligence course projects(Pacman)<br/>
 These projects are taken from UC Berkeley CS188 Intro to AI<br/>
 - project 1: [Search](http://ai.berkeley.edu/search.html)<br/>
